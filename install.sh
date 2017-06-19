@@ -8,7 +8,7 @@ user=greencore
 
 # Tareas administrativas, instalación de paquetes
 apt-get install -y python3-pip
-pip3 install --upgrade pip
+#pip3 install --upgrade pip
 pip3 install jupyter bash_kernel
 python3 -m bash_kernel.install
 

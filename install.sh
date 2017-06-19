@@ -2,6 +2,8 @@
 # Instalador de Jupyter notebook para ser usado en ambiente educativo
 # Para cursos en Greencore Solutions
 
+set +x
+
 user=greencore
 
 # Tareas administrativas, instalación de paquetes

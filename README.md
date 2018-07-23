@@ -39,3 +39,4 @@ Una vez dentro de la libreta, vas a tener bloques de código de Markdown para do
 - Cervecería con Matplotlib: Para tomar datos durante la fabricación de cerveza artesanal
 - Voltage Divider: Fórmula básica de un divisor de voltaje, utilizada para medición de baterías, y cálculo de potenciómetros para fabricación de guitarras y bajos, tanto acústicos como eléctricos
 - DHT11 Temperature sensor: Ejemplo de lectura en sensor DHT11 basado en la librería de Python de Adafruit para dicho sensor
+- Notación musical con Fretboard: Usando el módulo fretboard, realizamos notación de figuras de acordes y escalas para instrumentos de cuerda.

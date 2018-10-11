@@ -19,7 +19,7 @@ echo "c.NotebookApp.password = 'sha512:8c79bf18770a:e874ca1ba53f2538c30883043021
 ```
 
 ## Instalando con soporte de sudo
-Para ejecutar tutoriales de los cursos de Greencore Solutions, debe también ejecutar los comandos del ejemplo de [sudo](https://github.com/fede2cr/jupyter_playground/blob/master/bash/01%20-%20Jypyter%20con%20Sudo.ipynb)
+Para ejecutar tutoriales de los cursos de Greencore Solutions, debe también ejecutar los comandos del ejemplo de [sudo](https://github.com/fede2cr/jupyter_playground/blob/master/bash/01%20-%20Jupyter%20con%20Sudo.ipynb)
 
 ## Ejecutando Jupyter notebook
 
